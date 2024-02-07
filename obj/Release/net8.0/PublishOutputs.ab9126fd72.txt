@@ -1,0 +1,4 @@
+\\wsl.localhost\Ubuntu-20.04\home\basil\devcontainer\blazorwasmsample\obj\Release\net8.0\browser-wasm\PubTmp\Out\out\web.config
+\\wsl.localhost\Ubuntu-20.04\home\basil\devcontainer\blazorwasmsample\obj\Release\net8.0\browser-wasm\PubTmp\Out\out\wwwroot\sample-data\weather.json
+\\wsl.localhost\Ubuntu-20.04\home\basil\devcontainer\blazorwasmsample\obj\Release\net8.0\browser-wasm\PubTmp\Out\out\wwwroot\_framework\blazor.boot.json
+\\wsl.localhost\Ubuntu-20.04\home\basil\devcontainer\blazorwasmsample\obj\Release\net8.0\browser-wasm\PubTmp\Out\web.config
